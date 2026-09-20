@@ -18,7 +18,7 @@
 
 This repository contains my solutions to **Data Structures & Algorithms (DSA)** problems from **LeetCode** and **GeeksforGeeks**.
 
-I started maintaining this repository in **January 2025** as a way to consistently practice problem-solving, improve my understanding of algorithms, and track my progress over time.
+I started maintaining this repository in **September 2026** as a way to consistently practice problem-solving, improve my understanding of algorithms, and track my progress over time.
 
 ### 🎯 Goals
 
