@@ -83,3 +83,19 @@ Each solution aims to be:
 
 For problems where multiple approaches are possible, I try to understand the **brute-force approach first** and then work towards a more **optimized solution**.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+<!---LeetCode Topics End-->
