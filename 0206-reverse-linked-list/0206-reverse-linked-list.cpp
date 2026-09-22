@@ -26,3 +26,5 @@ public:
         
     }
 };
+
+//where is the newhead is used to keep the track of end node that becomes new head after reversing the linked list
