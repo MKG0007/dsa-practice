@@ -115,4 +115,12 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
