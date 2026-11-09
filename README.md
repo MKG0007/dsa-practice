@@ -96,13 +96,23 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MKG0007/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MKG0007/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
