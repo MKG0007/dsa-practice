@@ -1,15 +1,15 @@
 class Solution {
 public:
 
-    int helper(int num){
+    int helper(int num , vector<int> &dp){
         if(num == 0 || num == 1) return num;
-
-        return helper(num-1) + helper(num-2);
+        if(dp[num] != -1) return dp[num];
+        return dp[num] =  helper(num-1 , dp) + helper(num-2 , dp);
     }
     int fib(int n) {
         if(n == 0 || n == 1) return n;
-
-        return helper(n);
+        vector<int> dp(n+1 , -1);
+        return helper(n , dp);
         
     }
 };
