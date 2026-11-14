@@ -110,6 +110,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -119,8 +120,13 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
