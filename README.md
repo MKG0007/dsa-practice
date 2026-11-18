@@ -112,6 +112,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MKG0007/dsa-practice/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/MKG0007/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -122,6 +123,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
+| [0063-unique-paths-ii](https://github.com/MKG0007/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/MKG0007/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
