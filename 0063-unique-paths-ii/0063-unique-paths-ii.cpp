@@ -1,22 +1,27 @@
 class Solution {
 public:
 
-    int helper(vector<vector<int>> &arr , int ii , int jj , vector<vector<int>> &dp ){
-        if(ii<0 || jj<0 || arr[ii][jj] == 1) return 0;
-        if(ii == 0 && jj == 0) return 1;
-        if(dp[ii][jj] != -1) return dp[ii][jj];
-        int up = helper(arr , ii-1 , jj , dp);
-        int down = helper(arr , ii , jj-1 , dp);
-
-        return dp[ii][jj] = up+down;
-    }
     int uniquePathsWithObstacles(vector<vector<int>>& arr) {
         int row = arr.size();
         int col = arr[0].size();
 
-        vector<vector<int>> dp(row , vector<int>(col , -1));
+        vector<vector<int>> dp(row , vector<int>(col , 0));
 
-        return helper(arr , row-1 , col-1 , dp);
+        for(int i = 0 ; i<row ; i++){
+            for(int j = 0 ; j<col ; j++){
+                if(arr[i][j] == 1) continue;
+                if(i == 0 && j == 0) {dp[i][j] = 1 ; continue;}
+
+                int take1= 0;
+                int take2 = 0;
+                if(i-1>=0) take1 = dp[i-1][j];
+                if(j-1>=0) take2 = dp[i][j-1];
+
+                dp[i][j] = take1+take2; 
+            }
+        }
+
+        return dp[row-1][col-1];
         
     }
 };
