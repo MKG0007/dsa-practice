@@ -96,6 +96,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MKG0007/dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/MKG0007/dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/MKG0007/dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/MKG0007/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -129,4 +131,8 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/MKG0007/dsa-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
