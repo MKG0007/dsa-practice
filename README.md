@@ -128,6 +128,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | [0063-unique-paths-ii](https://github.com/MKG0007/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/MKG0007/dsa-practice/tree/main/0120-triangle/) | Medium |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +146,21 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MKG0007/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
