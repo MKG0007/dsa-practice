@@ -123,6 +123,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MKG0007/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/MKG0007/dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
@@ -140,4 +141,8 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MKG0007/dsa-practice/tree/main/0062-unique-paths/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/MKG0007/dsa-practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
