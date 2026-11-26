@@ -108,6 +108,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MKG0007/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | [0064-minimum-path-sum](https://github.com/MKG0007/dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/MKG0007/dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+| [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+| [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +166,12 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
