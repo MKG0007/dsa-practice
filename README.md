@@ -107,6 +107,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/MKG0007/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MKG0007/dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MKG0007/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/MKG0007/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/MKG0007/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/MKG0007/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MKG0007/dsa-practice/tree/main/0055-jump-game/) | Medium |
@@ -161,6 +163,7 @@ For problems where multiple approaches are possible, I try to understand the **b
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/MKG0007/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/MKG0007/dsa-practice/tree/main/0169-majority-element/) | Easy |
 | [0455-assign-cookies](https://github.com/MKG0007/dsa-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
